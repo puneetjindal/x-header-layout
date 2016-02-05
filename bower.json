@@ -1,0 +1,13 @@
+{
+  "name": "x-header-layout",
+  "homepage": "https://github.com/puneetjindal/x-header-layout",
+  "_release": "64bf7c350e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "64bf7c350ec0fc436e31473c1580e9e5a4a62b41"
+  },
+  "_source": "git://github.com/puneetjindal/x-header-layout.git",
+  "_target": "master",
+  "_originalSource": "puneetjindal/x-header-layout"
+}
